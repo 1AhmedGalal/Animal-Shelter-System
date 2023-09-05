@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Dell\Desktop\Animal Shelter System\Animal Shelter System\Source.cpp(157,12): warning C4101: 'i': unreferenced local variable
+C:\Users\Dell\Desktop\Animal Shelter System\Animal Shelter System\Source.cpp(1044,10): warning C4101: 'yes': unreferenced local variable
+C:\Users\Dell\Desktop\Animal Shelter System\Animal Shelter System\Source.cpp(1621,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\Desktop\Animal Shelter System\Animal Shelter System\Source.cpp(1877,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\Desktop\Animal Shelter System\Animal Shelter System\Source.cpp(1997,39): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Dell\Desktop\Animal Shelter System\Animal Shelter System\Source.cpp(2299,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\Desktop\Animal Shelter System\Animal Shelter System\Source.cpp(2102): warning C4715: 'sendingMessages': not all control paths return a value
+C:\Users\Dell\Desktop\Animal Shelter System\Animal Shelter System\Source.cpp(2183): warning C4715: 'viewingMessages': not all control paths return a value
+  Animal Shelter System.vcxproj -> C:\Users\Dell\Desktop\Animal Shelter System\Debug\Animal Shelter System.exe
