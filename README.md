@@ -13,3 +13,12 @@ A console application written in C++ as a project for the ASU's structured progr
 - Validating credit cards.
 - Validating passwords and usernames in additiong to applying binary search on over 10000 weak passwords stored in the files to make sure that users' passwords are strong.
 - Saving Progress to files.
+
+## Creators 
+
+- Ahmed Galal
+- Mohammed Alaa
+- Amira Abel-Aziz
+- Jana Karim
+- Mohammed Mostafa
+- Mohammed Mostafa
