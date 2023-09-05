@@ -11,7 +11,7 @@ A console application written in C++ as a project for the ASU's structured progr
 - Admins will be able to confirm the reports before they are displayed to other users to avoid spamming the system as well as removing animals when they find their new home.
 - Admins and the users to communicate by sending messages to each other.
 - Validating credit cards.
-- Validating passwords and usernames in additiong to applying binary search on over 10000 weak passwords stored in the files to make sure that users' passwords are strong.
+- Validating passwords and usernames in additiong to applying binary search on 10000 weak passwords stored in the files to make sure that users' passwords are strong.
 - Saving Progress to files.
 
 ## Creators 
