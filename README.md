@@ -21,4 +21,4 @@ A console application written in C++ as a project for the ASU's structured progr
 - Amira Abel-Aziz
 - Jana Karim
 - Mohammed Mostafa
-- Mohammed Mostafa
+- Mohammed Mostafa Mohammed
